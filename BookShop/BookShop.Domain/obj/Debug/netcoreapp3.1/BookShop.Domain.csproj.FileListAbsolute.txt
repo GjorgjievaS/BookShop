@@ -1,0 +1,9 @@
+C:\Users\Sara\Desktop\BookShop\BookShop\BookShop\BookShop.Domain\bin\Debug\netcoreapp3.1\BookShop.Domain.deps.json
+C:\Users\Sara\Desktop\BookShop\BookShop\BookShop\BookShop.Domain\bin\Debug\netcoreapp3.1\BookShop.Domain.dll
+C:\Users\Sara\Desktop\BookShop\BookShop\BookShop\BookShop.Domain\bin\Debug\netcoreapp3.1\BookShop.Domain.pdb
+C:\Users\Sara\Desktop\BookShop\BookShop\BookShop\BookShop.Domain\obj\Debug\netcoreapp3.1\BookShop.Domain.csprojAssemblyReference.cache
+C:\Users\Sara\Desktop\BookShop\BookShop\BookShop\BookShop.Domain\obj\Debug\netcoreapp3.1\BookShop.Domain.AssemblyInfoInputs.cache
+C:\Users\Sara\Desktop\BookShop\BookShop\BookShop\BookShop.Domain\obj\Debug\netcoreapp3.1\BookShop.Domain.AssemblyInfo.cs
+C:\Users\Sara\Desktop\BookShop\BookShop\BookShop\BookShop.Domain\obj\Debug\netcoreapp3.1\BookShop.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Sara\Desktop\BookShop\BookShop\BookShop\BookShop.Domain\obj\Debug\netcoreapp3.1\BookShop.Domain.dll
+C:\Users\Sara\Desktop\BookShop\BookShop\BookShop\BookShop.Domain\obj\Debug\netcoreapp3.1\BookShop.Domain.pdb

@@ -1,0 +1,36 @@
+﻿@model BookShop.Domain.DomainModels.Order
+
+    <div class="container" style="background-color: #efefef">
+
+            <p>
+                <a class="btn btn-success">@Model.User.UserName</a>
+            </p>
+
+            @for (int i = 0; i < Model.BookInOrders.Count(); i++)
+            {
+                var item = Model.BookInOrders.ElementAt(i).OrderedBook;
+
+                if (i % 3 == 0)
+                {
+
+                    @:<div class="row">
+                    }
+
+                    <div class="col-md-3 m-4">
+                        <div class="card" style="width: 18rem; height: 30rem;">
+                            <img class="card-img-top" style="height: 70%" src="@item.BookImage" alt="Card image cap">
+                            <div class="card-body">
+                                <h3>@item.BookName</h3>
+                                <p>@item.BookAuthor</p>
+                            </div>
+
+                        </div>
+                    </div>
+
+                    if (i % 3 == 2)
+                    {
+                    @:</div>
+                }
+
+            }
+        </div>

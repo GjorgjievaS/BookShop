@@ -13,4 +13,5 @@ Online bookstore web application using Onion Architecture
 ![](https://github.com/GjorgjievaS/BookShop/blob/main/BookShop/images/2_user.JPG)
 ![](https://github.com/GjorgjievaS/BookShop/blob/main/BookShop/images/3_user.JPG)
 
-## DataBase
+## Database
+
